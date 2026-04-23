@@ -1,0 +1,31 @@
+# Prerequisites
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.lib
+*.a
+
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]uild/
+bld/
+[Bb]in/
+obj/
+
+# Exclude specific files but keep your source and assets
+# Git will naturally track your .cpp, .h, assets/, and shaders/ folders
