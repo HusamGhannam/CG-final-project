@@ -1,0 +1,13 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+FileName.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+FileName.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+C:\OpenGL\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Hosam\source\repos\Project1\Debug\Project1.exe : fatal error LNK1120: 10 unresolved externals
