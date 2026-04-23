@@ -2,7 +2,7 @@
 #include <vector>
 #include <cmath>
 
-// Mandatory definitions from the lectures [cite: 854]
+// Main definitions
 #define GLEW_STATIC
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
@@ -11,7 +11,7 @@
 #include "stb_image.h"
 
 // ==============================================================================
-// CUSTOM 3D MATH LIBRARY (Replacing GLM to comply with course rules)
+// CUSTOM 3D MATH LIBRARY 
 // ==============================================================================
 const float PI = 3.14159265359f;
 
