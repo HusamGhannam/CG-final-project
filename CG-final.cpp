@@ -83,7 +83,7 @@ struct Mat4 {
 };
 
 // ==============================================================================
-// SHADER STRINGS (As per Lecture 2 & 4) [cite: 968, 1319]
+// SHADER STRINGS [cite: 968, 1319]
 // ==============================================================================
 const char* vertexShaderSource = "#version 330 core\n"
 "layout (location = 0) in vec3 aPos;\n"
